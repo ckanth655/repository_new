@@ -11,6 +11,7 @@ public class Test2JpaExampleApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		//added by workspace
 	}
 
 }
