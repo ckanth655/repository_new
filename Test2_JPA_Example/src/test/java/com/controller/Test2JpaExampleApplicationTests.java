@@ -16,7 +16,7 @@ public class Test2JpaExampleApplicationTests {
 		//comment added by remote github
 
 	}
-	public void autoTestCase(){
+	public void gethub(){
 		
 	}
 
