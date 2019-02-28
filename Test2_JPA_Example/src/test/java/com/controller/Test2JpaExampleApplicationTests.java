@@ -16,10 +16,5 @@ public class Test2JpaExampleApplicationTests {
 		//comment added by remote github
 
 	}
-	public void gethub(){
-		
-	}
-
-	public void stsmethod(){
-	}
+	
 }
