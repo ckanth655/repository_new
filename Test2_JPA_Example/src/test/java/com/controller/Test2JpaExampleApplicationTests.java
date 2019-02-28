@@ -20,6 +20,6 @@ public class Test2JpaExampleApplicationTests {
 		
 	}
 
-	public void newTestCase(){
+	public void stsmethod(){
 	}
 }
