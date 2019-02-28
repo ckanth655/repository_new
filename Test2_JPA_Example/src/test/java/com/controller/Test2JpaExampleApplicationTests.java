@@ -20,6 +20,4 @@ public class Test2JpaExampleApplicationTests {
 		
 	}
 
-	public void stsmethod(){
-	}
 }
